@@ -8,7 +8,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background: #fdfdfd;
-    color: #333;
+    color: #fffcfc;
     line-height: 1.6;
 }
 
@@ -44,7 +44,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgb(255, 255, 255);
 }
 
 /* Konten Utama */
